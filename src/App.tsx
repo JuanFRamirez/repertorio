@@ -1,7 +1,7 @@
 import { Col, Row } from 'react-bootstrap';
 import { useMemo, useState } from 'react';
 import './App.css';
-import { songs } from './songs/songs.js';
+import { songs } from './songs/songs';
 
 interface Song {
   id: number;
