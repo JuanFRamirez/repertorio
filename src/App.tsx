@@ -9,10 +9,12 @@ interface Song {
   link: string;
   category?: string | null;
   author: string;
+  visible:boolean;
+  chords: string;
 }
 
 function App() {
-  const songList: Song[] = songs;
+  const songList: Song[] = songs.filter((song) => song.visible);
 
   const [search, setSearch] = useState('');
   const [author, setAuthor] = useState('all');

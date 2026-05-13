@@ -5,6 +5,8 @@ export const songs = [
     link: 'https://www.youtube.com/watch?v=FWbT3w7agHc&list=RDFWbT3w7agHc',
     category: null,
     author: 'Oasis Ministry & Jordan Mateo',
+    visible: true,
+    chords: '',
   },
   {
     id: 2,
@@ -12,6 +14,8 @@ export const songs = [
     link: 'https://www.youtube.com/watch?v=1m0K5gn1pUk&list=RD1m0K5gn1pUk',
     category: null,
     author: 'Rosa Karina',
+    visible: true,
+    chords: '',
   },
   {
     id: 3,
@@ -19,6 +23,8 @@ export const songs = [
     link: 'https://www.youtube.com/watch?v=akFA6dx35iA&list=RDakFA6dx35iA',
     category: null,
     author: 'New Wine',
+    visible: true,
+    chords: '',
   },
   {
     id: 4,
@@ -26,6 +32,8 @@ export const songs = [
     link: 'https://www.youtube.com/watch?v=3uUJCvdbH3k&list=RD3uUJCvdbH3k',
     category: null,
     author: "Christine D'Clario",
+    visible: true,
+    chords: '',
   },
   {
     id: 5,
@@ -33,6 +41,8 @@ export const songs = [
     link: 'https://www.youtube.com/watch?v=lNuGNTSwdas&list=RDlNuGNTSwdas',
     category: null,
     author: "Christine D'Clario",
+    visible: true,
+    chords: '',
   },
   {
     id: 6,
@@ -40,6 +50,8 @@ export const songs = [
     link: 'https://www.youtube.com/watch?v=053BvHDfIdI&list=RD053BvHDfIdI',
     category: null,
     author: 'Barak',
+    visible: true,
+    chords: '',
   },
   {
     id: 7,
@@ -47,6 +59,8 @@ export const songs = [
     link: 'https://www.youtube.com/watch?v=tdceWbDOYxw&list=RDtdceWbDOYxw',
     category: null,
     author: 'Kymberli Joye',
+    visible: true,
+    chords: '',
   },
   {
     id: 8,
@@ -54,6 +68,8 @@ export const songs = [
     link: 'https://www.youtube.com/watch?v=mmskFioF19M&list=RDmmskFioF19M',
     category: null,
     author: 'Joan Paulino',
+    visible: true,
+    chords: '',
   },
   {
     id: 9,
@@ -61,6 +77,8 @@ export const songs = [
     link: 'https://www.youtube.com/watch?v=ZoKsBeoEW18&list=RDZoKsBeoEW18',
     category: null,
     author: 'Hillsong',
+    visible: true,
+    chords: '',
   },
   {
     id: 10,
@@ -68,6 +86,8 @@ export const songs = [
     link: 'https://www.youtube.com/watch?v=U7FUfhhcWc8&list=RDU7FUfhhcWc8',
     category: null,
     author: 'Egleyda Belliard',
+    visible: true,
+    chords: '',
   },
   {
     id: 11,
@@ -75,6 +95,8 @@ export const songs = [
     link: 'https://www.youtube.com/watch?v=JSpQHItnrSs&list=RDJSpQHItnrSs',
     category: null,
     author: 'Barak',
+    visible: true,
+    chords: '',
   },
   {
     id: 12,
@@ -82,6 +104,8 @@ export const songs = [
     link: 'https://www.youtube.com/watch?v=HSQzeIaPgIg&list=RDHSQzeIaPgIg',
     category: null,
     author: 'En Espíritu Y En Verdad',
+    visible: true,
+    chords: '',
   },
   {
     id: 13,
@@ -89,6 +113,8 @@ export const songs = [
     link: 'https://www.youtube.com/watch?v=pCtHNZEC3Vs&list=RDpCtHNZEC3Vs',
     category: null,
     author: 'Barak',
+    visible: true,
+    chords: '',
   },
   {
     id: 14,
@@ -96,6 +122,8 @@ export const songs = [
     link: 'https://www.youtube.com/watch?v=AHw7L9SflXI&list=RDAHw7L9SflXI',
     category: null,
     author: 'Barak',
+    visible: true,
+    chords: '',
   },
   {
     id: 15,
@@ -103,6 +131,8 @@ export const songs = [
     link: 'https://www.youtube.com/watch?v=E4llaS5Osc4&list=RDE4llaS5Osc4',
     category: null,
     author: 'Barak',
+    visible: true,
+    chords: '',
   },
   {
     id: 16,
@@ -110,6 +140,8 @@ export const songs = [
     link: 'https://www.youtube.com/watch?v=gbTMNVP_O5M&list=RDgbTMNVP_O5M',
     category: null,
     author: 'Barak',
+    visible: true,
+    chords: '',
   },
   {
     id: 17,
@@ -117,6 +149,8 @@ export const songs = [
     link: 'https://www.youtube.com/watch?v=hk2kzCj1L6w&list=RDhk2kzCj1L6w',
     category: null,
     author: 'Monte Santo',
+    visible: true,
+    chords: '',
   },
   {
     id: 18,
@@ -124,6 +158,8 @@ export const songs = [
     link: 'https://www.youtube.com/watch?v=k28qCBwww0E&list=RDk28qCBwww0E',
     category: null,
     author: 'Sinach',
+    visible: true,
+    chords: '',
   },
   {
     id: 19,
@@ -131,6 +167,8 @@ export const songs = [
     link: 'https://www.youtube.com/watch?v=KkpjtkGW7JQ&list=RDKkpjtkGW7JQ',
     category: null,
     author: 'Hillsong',
+    visible: true,
+    chords: '',
   },
   {
     id: 20,
@@ -138,6 +176,8 @@ export const songs = [
     link: 'https://www.youtube.com/watch?v=RHZTk79wAL4&list=RDRHZTk79wAL4',
     category: null,
     author: 'Marcos Barrientos',
+    visible: true,
+    chords: '',
   },
   {
     id: 21,
@@ -145,6 +185,8 @@ export const songs = [
     link: 'https://www.youtube.com/watch?v=W9tUnz5dvXg&list=RDW9tUnz5dvXg',
     category: null,
     author: 'Barak',
+    visible: true,
+    chords: '',
   },
   {
     id: 22,
@@ -152,5 +194,35 @@ export const songs = [
     link: 'https://www.youtube.com/watch?v=wZeqPHjHZ-U&list=RDwZeqPHjHZ-U',
     category: null,
     author: 'En Espíritu Y En Verdad',
+    visible: true,
+    chords: '',
+  },
+
+  {
+    id: 23,
+    name: 'Océanos',
+    link: 'https://www.youtube.com/watch?v=dy9nwe9_xzw',
+    category: null,
+    author: 'Hillsong',
+    visible: true,
+    chords: '',
+  },
+  {
+    id: 24,
+    name: 'Algo está pasando',
+    link: 'https://www.youtube.com/watch?v=31yphE7vTqw&list=RD31yphE7vTqw',
+    category: null,
+    author: 'Oasis Ministry',
+    visible: true,
+    chords: '',
+  },
+  {
+    id: 25,
+    name: 'Poderoso Dios',
+    link: 'https://www.youtube.com/watch?v=DfyOUomA1UU&list=RDDfyOUomA1UU',
+    category: null,
+    author: 'Centro Vida',
+    visible: true,
+    chords: '',
   },
 ];
