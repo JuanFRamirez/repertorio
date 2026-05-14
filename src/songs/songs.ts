@@ -225,4 +225,13 @@ export const songs = [
     visible: true,
     chords: '',
   },
+   {
+    id: 26,
+    name: 'En Los Brazos De Papá',
+    link: 'https://www.youtube.com/watch?v=BGDOdMpTV2o&list=RDBGDOdMpTV2o',
+    category: null,
+    author: 'Oasis Ministry',
+    visible: true,
+    chords: '',
+  },
 ];
