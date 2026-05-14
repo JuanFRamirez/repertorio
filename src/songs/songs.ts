@@ -230,7 +230,7 @@ export const songs = [
     name: 'En Los Brazos De Papá',
     link: 'https://www.youtube.com/watch?v=BGDOdMpTV2o&list=RDBGDOdMpTV2o',
     category: null,
-    author: 'Oasis Ministry',
+    author: 'Grupo Grace',
     visible: true,
     chords: '',
   },
