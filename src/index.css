@@ -102,3 +102,10 @@ body {
   font-style: italic;
   font-size: 0.95rem;
 }
+
+
+@media (max-width: 450px) {
+  .hero-title {
+    font-size: 4rem;
+  }
+}
