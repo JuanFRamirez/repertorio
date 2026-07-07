@@ -1,7 +1,7 @@
 export const songs = [
   {
     id: 1,
-    name: 'Un encuentro',
+    name: 'Un Encuentro',
     link: 'https://www.youtube.com/watch?v=FWbT3w7agHc',
     category: null,
     author: 'Oasis Ministry & Jordan Mateo',
@@ -19,7 +19,7 @@ export const songs = [
   },
   {
     id: 3,
-    name: 'Movimiento de gloria',
+    name: 'Movimiento de Gloria',
     link: 'https://www.youtube.com/watch?v=akFA6dx35iA',
     category: null,
     author: 'New Wine',
@@ -28,7 +28,7 @@ export const songs = [
   },
   {
     id: 4,
-    name: 'Como dijiste',
+    name: 'Como Dijiste',
     link: 'https://www.youtube.com/watch?v=3uUJCvdbH3k',
     category: null,
     author: "Christine D'Clario",
@@ -37,7 +37,7 @@ export const songs = [
   },
   {
     id: 5,
-    name: 'El nos ama',
+    name: 'Él Nos Ama',
     link: 'https://www.youtube.com/watch?v=lNuGNTSwdas',
     category: null,
     author: "Christine D'Clario",
@@ -46,7 +46,7 @@ export const songs = [
   },
   {
     id: 6,
-    name: 'Libre soy',
+    name: 'Libre Soy',
     link: 'https://www.youtube.com/watch?v=053BvHDfIdI',
     category: null,
     author: 'Barak',
@@ -55,7 +55,7 @@ export const songs = [
   },
   {
     id: 7,
-    name: 'Cadenas romper ver. Kymberli Joye',
+    name: 'Cadenas Romper (ver. Kymberli Joye)',
     link: 'https://www.youtube.com/watch?v=tdceWbDOYxw',
     category: null,
     author: 'Kymberli Joye',
@@ -64,7 +64,7 @@ export const songs = [
   },
   {
     id: 8,
-    name: 'Santo espíritu ven',
+    name: 'Santo Espíritu Ven',
     link: 'https://www.youtube.com/watch?v=mmskFioF19M',
     category: null,
     author: 'Joan Paulino',
@@ -73,7 +73,7 @@ export const songs = [
   },
   {
     id: 9,
-    name: 'Hermoso nombre',
+    name: 'Hermoso Nombre',
     link: 'https://www.youtube.com/watch?v=ZoKsBeoEW18',
     category: null,
     author: 'Hillsong Worship',
@@ -82,7 +82,7 @@ export const songs = [
   },
   {
     id: 10,
-    name: 'Exhibete',
+    name: 'Exhíbete',
     link: 'https://www.youtube.com/watch?v=U7FUfhhcWc8',
     category: null,
     author: 'Egleyda Belliard',
@@ -91,7 +91,7 @@ export const songs = [
   },
   {
     id: 11,
-    name: 'Tu eres rey',
+    name: 'Tú Eres Rey',
     link: 'https://www.youtube.com/watch?v=JSpQHItnrSs',
     category: null,
     author: 'Barak',
@@ -100,7 +100,7 @@ export const songs = [
   },
   {
     id: 12,
-    name: 'Vamos a cantar',
+    name: 'Vamos a Cantar',
     link: 'https://www.youtube.com/watch?v=HSQzeIaPgIg',
     category: null,
     author: 'En Espíritu y en Verdad',
@@ -109,7 +109,7 @@ export const songs = [
   },
   {
     id: 13,
-    name: 'La tierra canta',
+    name: 'La Tierra Canta',
     link: 'https://www.youtube.com/watch?v=pCtHNZEC3Vs',
     category: null,
     author: 'Barak',
@@ -118,7 +118,7 @@ export const songs = [
   },
   {
     id: 14,
-    name: 'Trae aquí el cielo',
+    name: 'Trae Aquí el Cielo',
     link: 'https://www.youtube.com/watch?v=AHw7L9SflXI',
     category: null,
     author: 'Barak',
@@ -136,7 +136,7 @@ export const songs = [
   },
   {
     id: 16,
-    name: 'Dios fuerte',
+    name: 'Dios Fuerte',
     link: 'https://www.youtube.com/watch?v=gbTMNVP_O5M',
     category: null,
     author: 'Barak',
@@ -145,7 +145,7 @@ export const songs = [
   },
   {
     id: 17,
-    name: 'Fiesta en el desierto',
+    name: 'Fiesta en el Desierto',
     link: 'https://www.youtube.com/watch?v=hk2kzCj1L6w',
     category: null,
     author: 'Monte Santo',
@@ -208,7 +208,7 @@ export const songs = [
   },
   {
     id: 24,
-    name: 'Algo está pasando',
+    name: 'Algo Está Pasando',
     link: 'https://www.youtube.com/watch?v=31yphE7vTqw',
     category: null,
     author: 'Oasis Ministry',
@@ -226,7 +226,7 @@ export const songs = [
   },
   {
     id: 26,
-    name: 'En Los Brazos De Papá',
+    name: 'En los Brazos de Papá',
     link: 'https://www.youtube.com/watch?v=BGDOdMpTV2o',
     category: null,
     author: 'Grupo Grace',
@@ -235,7 +235,7 @@ export const songs = [
   },
   {
     id: 27,
-    name: 'No hay otro nombre igual',
+    name: 'No Hay Otro Nombre Igual',
     link: 'https://www.youtube.com/watch?v=2BuifDijlFY',
     category: null,
     author: 'Hillsong Worship',
@@ -244,7 +244,7 @@ export const songs = [
   },
   {
     id: 28,
-    name: 'Jesús es el centro',
+    name: 'Jesús Es el Centro',
     link: 'https://www.youtube.com/watch?v=cTAMJ0JNqgU',
     category: null,
     author: 'Israel Houghton',
@@ -253,7 +253,7 @@ export const songs = [
   },
   {
     id: 29,
-    name: 'Más grande',
+    name: 'Más Grande',
     link: 'https://www.youtube.com/watch?v=H2GYQzUQrh0',
     category: null,
     author: 'Lilly Goodman',
@@ -262,7 +262,7 @@ export const songs = [
   },
   {
     id: 30,
-    name: 'El gran Yo Soy',
+    name: 'El Gran Yo Soy',
     link: 'https://www.youtube.com/watch?v=nYQgLJwbAIU',
     category: null,
     author: 'Julissa',
@@ -280,7 +280,7 @@ export const songs = [
   },
   {
     id: 32,
-    name: 'Llévame al primer amor',
+    name: 'Llévame al Primer Amor',
     link: 'https://www.youtube.com/watch?v=C_4WgHzO8mI',
     category: null,
     author: 'Oasis Ministry',
@@ -289,7 +289,7 @@ export const songs = [
   },
   {
     id: 33,
-    name: 'Que se llene tu casa',
+    name: 'Que Se Llene Tu Casa',
     link: 'https://www.youtube.com/watch?v=z0_uuqnLsFI',
     category: null,
     author: 'Ingrid Rosario',
@@ -307,7 +307,7 @@ export const songs = [
   },
   {
     id: 35,
-    name: 'Santo por siempre',
+    name: 'Santo por Siempre',
     link: 'https://www.youtube.com/watch?v=1CxEg0H6Q-4',
     category: null,
     author: 'Adoración La IBI',
@@ -316,7 +316,7 @@ export const songs = [
   },
   {
     id: 36,
-    name: 'Limpio soy',
+    name: 'Limpio Soy',
     link: 'https://www.youtube.com/watch?v=wrgEprQBdrY',
     category: null,
     author: 'Blest',
@@ -325,7 +325,7 @@ export const songs = [
   },
   {
     id: 37,
-    name: 'Yahweh se manifestará',
+    name: 'Yahweh Se Manifestará',
     link: 'https://www.youtube.com/watch?v=Qem0WSJXLCE',
     category: null,
     author: 'Oasis Ministry',
@@ -334,7 +334,7 @@ export const songs = [
   },
   {
     id: 38,
-    name: 'Quien podrá',
+    name: 'Quién Podrá',
     link: 'https://www.youtube.com/watch?v=j4_Hzir24UI',
     category: null,
     author: 'Averly Morillo',
@@ -343,7 +343,7 @@ export const songs = [
   },
   {
     id: 39,
-    name: 'Mesías ven',
+    name: 'Mesías Ven',
     link: 'https://www.youtube.com/watch?v=7b9z-YcDUrc',
     category: null,
     author: 'Averly Morillo',
@@ -352,7 +352,7 @@ export const songs = [
   },
   {
     id: 40,
-    name: 'Me amaste a mí',
+    name: 'Me Amaste a Mí',
     link: 'https://www.youtube.com/watch?v=VI4lE9AbBx4',
     category: null,
     author: "Christine D'Clario",
@@ -361,7 +361,7 @@ export const songs = [
   },
   {
     id: 41,
-    name: 'Lugar de rompimiento',
+    name: 'Lugar de Rompimiento',
     link: 'https://www.youtube.com/watch?v=3_ccqgwVZYM',
     category: null,
     author: 'Yamilka',
@@ -370,16 +370,16 @@ export const songs = [
   },
   {
     id: 42,
-    name: 'Ya no soy esclavo',
+    name: 'Ya No Soy Esclavo',
     link: 'https://www.youtube.com/watch?v=mq_1aTYFzqM',
     category: null,
-    author: 'Bethel Music, Julio Melgar & Christine D\'Clario',
+    author: "Bethel Music, Julio Melgar & Christine D'Clario",
     visible: true,
     chords: '',
   },
   {
     id: 43,
-    name: 'La bondad de Dios',
+    name: 'La Bondad de Dios',
     link: 'https://www.youtube.com/watch?v=LveZsAhVbws',
     category: null,
     author: 'Blanca',
@@ -388,7 +388,7 @@ export const songs = [
   },
   {
     id: 44,
-    name: 'La bendición',
+    name: 'La Bendición',
     link: 'https://www.youtube.com/watch?v=pVb8rGuIkag',
     category: null,
     author: 'Elevation Worship',
@@ -397,7 +397,7 @@ export const songs = [
   },
   {
     id: 45,
-    name: 'En el trono está',
+    name: 'En el Trono Está',
     link: 'https://www.youtube.com/watch?v=zIWvbD-8X8Y',
     category: null,
     author: "Christine D'Clario",
@@ -406,7 +406,7 @@ export const songs = [
   },
   {
     id: 46,
-    name: 'Como en el cielo',
+    name: 'Como en el Cielo',
     link: 'https://www.youtube.com/watch?v=uDb5qFQblmg',
     category: null,
     author: 'Elevation Worship',
